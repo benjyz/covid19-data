@@ -68,4 +68,5 @@ def get_archive():
     table_name = 'main_table_countries'
     get_page(archive_url, sdate, table_name)
 
-get_archive()
+#get_archive()
+get_live()
